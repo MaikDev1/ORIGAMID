@@ -1,0 +1,31 @@
+p {
+  font-size: 20px;
+  color: darkred;
+}
+.rio {
+  color: blue;
+}
+.paulo {
+  color: blueviolet;
+}
+a {
+  color: red;
+  text-decoration: none;
+}
+h2 {
+  color: blueviolet;
+}
+html {
+  font-family: Arial;
+}
+.hoje {
+  color: chartreuse;
+}
+.coe {
+  color: chocolate;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Babylonica&display=swap");
+h2 {
+  font-family: "Babylonica", cursive;
+}
